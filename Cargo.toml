@@ -1,0 +1,6 @@
+[package]
+name = "throttle-dump"
+version = "0.1.0"
+authors = ["dymocaptin <peknudsen@gmail.com>"]
+
+[dependencies]
